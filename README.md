@@ -5,7 +5,7 @@ A LAN-based group chat for canteen group orders. Multiple clients connect to one
 
 ## Members
 - Prince Cristopher Rafon - GitHub: princecristopherrafon-star
-- Dan Tuala - GitHub: Dan Tuala GitHub username
+- Dan Tuala - Pair work done offline, code uploaded via partner account (princecristopherrafon-star)
 
 ## Course and Section
 ITAS1 - 2B - Iloilo Science and Technology University - Barotac Nuevo Campus
